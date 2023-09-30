@@ -1,4 +1,4 @@
-### Hi there 👋 `_arybp is here`.
+### Hi there 👋 `aryabp is here`.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryabp&hide=html,css,jupyter%20notebook&theme=vue&layout=compact"/>
 <!--
